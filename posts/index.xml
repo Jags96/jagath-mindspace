@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on jagathmind</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on jagathmind</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog</title>
+      <link>http://localhost:1313/posts/firstblog/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/firstblog/</guid>
+      <description>&lt;p&gt;This is my first blog post on my portfolio.&lt;/p&gt;
+&lt;p&gt;TODO:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Add all blogs&lt;/li&gt;
+&lt;li&gt;Add projects info&lt;/li&gt;
+&lt;li&gt;Add Home page&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Inline math: $E = mc^2$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+\int_{a}^{b} f(x),dx = F(b) - F(a)
+$$&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
