@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Jagath&#39;s mindspace</title>
-    <link>https://jags96.github.io/jagath-mindspace/</link>
-    <description>Recent content on Jagath&#39;s mindspace</description>
+    <title>Projects on Jagath&#39;s mindspace</title>
+    <link>https://jags96.github.io/jagath-mindspace/projects/</link>
+    <description>Recent content in Projects on Jagath&#39;s mindspace</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 May 2025 22:54:59 -0400</lastBuildDate>
-    <atom:link href="https://jags96.github.io/jagath-mindspace/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jags96.github.io/jagath-mindspace/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apartment Recommender</title>
       <link>https://jags96.github.io/jagath-mindspace/projects/apartment-recommender/</link>
@@ -30,24 +30,6 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Idea/Logic:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First Blog</title>
-      <link>https://jags96.github.io/jagath-mindspace/posts/firstblog/</link>
-      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://jags96.github.io/jagath-mindspace/posts/firstblog/</guid>
-      <description>&lt;p&gt;This is my first blog post on my portfolio.&lt;/p&gt;
-&lt;p&gt;TODO:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Add all blogs&lt;/li&gt;
-&lt;li&gt;Add projects info&lt;/li&gt;
-&lt;li&gt;Add Home page&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Inline math: $E = mc^2$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-\int_{a}^{b} f(x),dx = F(b) - F(a)
-$$&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
