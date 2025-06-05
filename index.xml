@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jagath&#39;s mindspace</title>
-    <link>https://jags96.github.io/jagath-mindspace/</link>
+    <link>http://localhost:1313/jagath-mindspace/</link>
     <description>Recent content on Jagath&#39;s mindspace</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 May 2025 22:54:59 -0400</lastBuildDate>
-    <atom:link href="https://jags96.github.io/jagath-mindspace/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jagath-mindspace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apartment Recommender</title>
-      <link>https://jags96.github.io/jagath-mindspace/projects/apartment-recommender/</link>
+      <link>http://localhost:1313/jagath-mindspace/projects/apartment-recommender/</link>
       <pubDate>Wed, 28 May 2025 22:54:59 -0400</pubDate>
-      <guid>https://jags96.github.io/jagath-mindspace/projects/apartment-recommender/</guid>
-      <description>&lt;p&gt;summary: &amp;ldquo;Apartments Recommendation System based on user preferences with flexible search filters; Custom Flexibility Options; Feature Similarity recommendation&amp;rdquo;&lt;/p&gt;
+      <guid>http://localhost:1313/jagath-mindspace/projects/apartment-recommender/</guid>
+      <description>&lt;p&gt;Summary : &amp;ldquo;Apartments Recommendation System based on user preferences with flexible search filters; Custom Flexibility Options; Feature Similarity recommendation&amp;rdquo;
+Project : &lt;a href=&#34;https://datasciencegroup1.streamlit.app/score_based_top_apartments&#34;&gt;Group Project&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;major-features&#34;&gt;Major Features&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Flexible Search Filters for Bathroom and Bedroom Count; My own design of flexibility [Custom]&lt;/li&gt;
@@ -33,9 +34,9 @@
     </item>
     <item>
       <title>First Blog</title>
-      <link>https://jags96.github.io/jagath-mindspace/posts/firstblog/</link>
+      <link>http://localhost:1313/jagath-mindspace/posts/firstblog/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://jags96.github.io/jagath-mindspace/posts/firstblog/</guid>
+      <guid>http://localhost:1313/jagath-mindspace/posts/firstblog/</guid>
       <description>&lt;p&gt;This is my first blog post on my portfolio.&lt;/p&gt;
 &lt;p&gt;TODO:&lt;/p&gt;
 &lt;ol&gt;

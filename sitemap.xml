@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jags96.github.io/jagath-mindspace/projects/apartment-recommender/</loc>
+    <loc>http://localhost:1313/jagath-mindspace/projects/apartment-recommender/</loc>
     <lastmod>2025-05-28T22:54:59-04:00</lastmod>
   </url><url>
-    <loc>https://jags96.github.io/jagath-mindspace/</loc>
+    <loc>http://localhost:1313/jagath-mindspace/</loc>
     <lastmod>2025-05-28T22:54:59-04:00</lastmod>
   </url><url>
-    <loc>https://jags96.github.io/jagath-mindspace/projects/</loc>
+    <loc>http://localhost:1313/jagath-mindspace/projects/</loc>
     <lastmod>2025-05-28T22:54:59-04:00</lastmod>
   </url><url>
-    <loc>https://jags96.github.io/jagath-mindspace/posts/firstblog/</loc>
+    <loc>http://localhost:1313/jagath-mindspace/posts/firstblog/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jags96.github.io/jagath-mindspace/posts/</loc>
+    <loc>http://localhost:1313/jagath-mindspace/posts/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jags96.github.io/jagath-mindspace/categories/</loc>
+    <loc>http://localhost:1313/jagath-mindspace/categories/</loc>
   </url><url>
-    <loc>https://jags96.github.io/jagath-mindspace/tags/</loc>
+    <loc>http://localhost:1313/jagath-mindspace/tags/</loc>
   </url>
 </urlset>
